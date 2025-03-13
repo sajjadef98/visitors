@@ -2,6 +2,7 @@
     "name": "sajjadef98/visitors",
     "description": "Advanced visitors analytics package with MysqliDb",
     "type": "library",
+    "minimum-stability": "dev",
     "license": "MIT",
     "keywords": ["analytics", "visitors", "tracking", "mysqli"],
      "require": {
