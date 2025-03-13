@@ -6,7 +6,7 @@
     "keywords": ["analytics", "visitors", "tracking", "mysqli"],
      "require": {
         "php": "^7.4|^8.0",
-        "thingengineer/mysqli-database-class": "2.9.4",
+        "thingengineer/mysqli-database-class": "^2.9",
         "ext-json": "*"
     },
     "autoload": {
