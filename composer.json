@@ -1,0 +1,23 @@
+{
+    "name": "sajjadef98/visitors",
+    "description": "Advanced visitors analytics package with MysqliDb",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["analytics", "visitors", "tracking", "mysqli"],
+     "require": {
+        "php": "^7.4|^8.0",
+        "thingengineer/mysqli-database-class": "dev-master",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Visitors\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sajjad eftekhari",
+            "homepage": "https://github.com/sajjadef98"
+        }
+    ]
+}
